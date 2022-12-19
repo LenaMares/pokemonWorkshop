@@ -1,1 +1,3 @@
-Pokémon beste
+//Pokémon beste
+
+console.log('charzard')
